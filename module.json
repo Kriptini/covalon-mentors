@@ -1,0 +1,21 @@
+{
+	"name": "covalon-mentors",
+	"title": "Covalon Mentors",
+	"description": "This actor pack includes Covalon's sixteen mentor characters!",
+	"author": "Kipza Quickclaw",
+	"version": "1.0",
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.8",
+	"packs": [
+		{
+			"name": "covalon-mentors",
+			"label": "Covalon Mentors",
+			"path": "./packs/covalon-mentors.db",
+			"entity": "Actor",
+			"module": "covalon-mentors"
+		}
+	],
+	"url": "https://discord.gg/kingdomofcovalon",
+	"manifest": "https://gitlab.com/Kriptini/covalon-mentors/-/raw/main/module.json",
+	"download": "https://gitlab.com/Kriptini/covalon-mentors/-/archive/1.0/covalon-mentors-1.0.zip"
+}
